@@ -1,0 +1,16 @@
+{
+  "name": "crunchme",
+  "version": "0.0.3",
+  "description": "Pack your .js in a self-extracting compressed file.",
+  "main": "src/pack.js",
+  "preferGlobal": true,
+  "bin": {
+    "crunchme": "bin/crunchme"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/streamich/crunchme.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
