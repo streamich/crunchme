@@ -1,6 +1,6 @@
 {
   "name": "crunchme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Pack your .js in a self-extracting compressed file.",
   "main": "src/pack.js",
   "preferGlobal": true,
